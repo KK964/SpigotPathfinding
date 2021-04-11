@@ -1,0 +1,7 @@
+name: JustPlots-Deny
+version: ${project.version}
+description: ${project.description}
+main: net.justminecraft.pathfinding.JustPathfinding
+author: KK964
+api-version: 1.13
+website: https://github.com/KK964/SpigotPathfinding
